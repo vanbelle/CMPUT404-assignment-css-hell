@@ -25,5 +25,5 @@ Usage
 =================
 To run the css file on the gutenberg pages, simply add  
 
-<link rel="stylesheet" type="text/css" href="https://rawgit.com/vanbelle/CMPUT404-assignment-css-hell/master/gutenberg.css">
+" <link rel="stylesheet" type="text/css" href="https://rawgit.com/vanbelle/CMPUT404-assignment-css-hell/master/gutenberg.css">"
  into the html.
