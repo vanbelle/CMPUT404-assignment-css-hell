@@ -35,3 +35,9 @@ The CSS file makes the following modifications:
  - Solid black borders were added around images, and any captions were italicized.
  - Headers were center aligned
  - The first letter in the first paragraph was enlarged, bolded and italicized for emphasis
+
+Ressources
+=================
+http://www.w3schools.com/cssref/css3_pr_border-image.asp 2016/02/09   
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Background_and_Borders/Border-image_generator 2016/02/09  
+
