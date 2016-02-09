@@ -21,4 +21,9 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Usage
+=================
+To run the css file on the gutenberg pages, simply add  
 
+link rel="stylesheet" type="text/css" href="https://rawgit.com/vanbelle/CMPUT404-assignment-css-hell/master/gutenberg.css"
+ into the html.
