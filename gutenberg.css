@@ -32,7 +32,7 @@ h1,h2,h3,h4,h5,h6 {
 
 /* This will change the first letter of the first word in a paragraph directly after a sub header 
 with a larger, stylized version of that letter */
-h3 + p:first-letter {
+h3 + p::first-letter {
 	font-size:3em;
 	font-weight:bold;
 	font-style:italic;
