@@ -21,9 +21,16 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-Usage
+Part I
 =================
-To run the css file on the gutenberg pages, simply add  
+To run the css file on the gutenberg pages, I added  
 
 link rel="stylesheet" type="text/css" href="https://rawgit.com/vanbelle/CMPUT404-assignment-css-hell/master/gutenberg.css">
- into the html.
+ into the header of the html.  
+ 
+The CSS file makes the following modifications:  
+ - The file background color was changed to OldLace
+ - A stylized border was added to then entire html document
+ - Solid black borders were added around images, and any captions were italicized.
+ - Headers were center aligned
+ - The first letter in the first paragraph was enlarged, bolded and italicized for emphasis
