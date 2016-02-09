@@ -31,3 +31,8 @@ img {
 	border:0.4em solid black;
 }
 
+img + span {
+	text-align:center;
+	font-style:italic;
+}
+
