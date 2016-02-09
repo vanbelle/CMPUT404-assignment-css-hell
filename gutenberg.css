@@ -21,17 +21,3 @@ h1,h2,h3,h4,h5,h6 {
 	text-align: center;
 }
 
-
-img {
-	border-image-slice: 233 233 233 233; 
-	border-image-width: 1em 1em 1em 1em; 
-	border-image-outset: 0em 0em 0em 0em; 
-	border-image-repeat: round round; 
-	border-image-source:
-	url("http://www.fromoldbooks.org/WilliamMorris-KelmscottChaucer/pages/483-Troilus-and-Criseyde-II-In-May-inner-border/483-Troilus-and-Criseyde-II-In-May-inner-border-q85-3260x2563.jpg");
-
-	padding-top:1em;
-	padding-right:1em;
-	padding-bottom:1em;
-	padding-left:1em;
-}
