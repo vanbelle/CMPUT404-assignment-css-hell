@@ -16,13 +16,13 @@ html {
 }
 
 /* 
-the following adds padding around the body portion of the page so that the writing does not overlap the border
+the following adds margins around the body portion of the page so that the writing does not overlap the border
 */
 body { 
-	padding-top:2em;
-	padding-right:2em;
-	padding-left:2em;
-	padding-bottom:2em;
+	margin-top:2em;
+	margin-right:2em;
+	margin-left:2em;
+	margin-bottom:2em;
 }
 
 /* This insures that all the headers are centered */
