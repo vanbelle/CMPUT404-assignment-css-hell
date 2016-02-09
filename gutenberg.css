@@ -26,7 +26,7 @@ img {
 	border-image-slice: 233 233 233 233; 
 	border-image-width: 1em 1em 1em 1em; 
 	border-image-outset: 0em 0em 0em 0em; 
-	border-image-repeat: stretch stretch; 
+	border-image-repeat: round round; 
 	border-image-source:
 	url("http://www.fromoldbooks.org/WilliamMorris-KelmscottChaucer/pages/483-Troilus-and-Criseyde-II-In-May-inner-border/483-Troilus-and-Criseyde-II-In-May-inner-border-q85-3260x2563.jpg");
 
