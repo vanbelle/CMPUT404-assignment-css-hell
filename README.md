@@ -24,9 +24,8 @@ Code is licensed under the Apache 2.0 license.
 Part I
 =================
 To run the css file on the gutenberg pages, I added  
-
 \<link rel="stylesheet" type="text/css" href="https://rawgit.com/vanbelle/CMPUT404-assignment-css-hell/master/gutenberg.css"></link>
- into the header of the html.  
+into the header of the html.  
  
 The CSS file makes the following modifications:  
  - The file background color was changed to OldLace
