@@ -21,9 +21,4 @@ h1,h2,h3,h4,h5,h6 {
 	text-align: center;
 }
 
-div p:first-of-type:first-letter {
-font-size:3em;
-font-weight:bold;
-font-style:italic;
-}
 
