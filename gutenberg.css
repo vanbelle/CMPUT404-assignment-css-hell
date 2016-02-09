@@ -1,4 +1,9 @@
 
+
+/*
+the following sets the background color to a soft brown, sets the font to Times new Roman and
+adds an old looking border around the entire document
+*/
 html {
 	background-color: OldLace;
 	font-family: "Times New Roman";
@@ -10,29 +15,36 @@ html {
 	url("http://www.fromoldbooks.org/WilliamMorris-KelmscottChaucer/pages/483-Troilus-and-Criseyde-II-In-May-inner-border/483-Troilus-and-Criseyde-II-In-May-inner-border-q85-3260x2563.jpg");
 }
 
+/* 
+the following adds padding around the body portion of the page so that the writing does not overlap the border
+*/
 body { 
-	margin-top:2em;
-	margin-right:2em;
-	margin-left:2em;
-	margin-bottom:2em;
+	padding-top:2em;
+	padding-right:2em;
+	padding-left:2em;
+	padding-bottom:2em;
 }
 
+/* This insures that all the headers are centered */
 h1,h2,h3,h4,h5,h6 {
 	text-align: center;
 }
 
+/* This will change the first letter of the first word in a paragraph directly after a div or header 
+with a larger, stylized version of that letter */
 div + p:first-letter,h1 + p:first-letter,h2 + p:first-letter,h3 + p:first-letter,h4 + p:first-letter,h5 + p:first-letter,h6 + p:first-letter {
 	font-size:3em;
 	font-weight:bold;
 	font-style:italic;
 }
 
+/*This adds a border to all images and centers them */
 img {
 	border:0.4em solid black;
 }
 
+/* this italicize any caption under the image */
 img + span {
-	text-align:center;
 	font-style:italic;
 }
 
