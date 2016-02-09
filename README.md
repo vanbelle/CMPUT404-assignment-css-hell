@@ -34,6 +34,11 @@ The CSS file makes the following modifications:
  - Headers were center aligned
  - The first letter in the first paragraph was enlarged, bolded and italicized for emphasis
 
+The original pages are
+ - http://www.gutenberg.org/files/41764/41764-h/41764-h.htm  2016/02/09  
+ - http://www.gutenberg.org/files/16115/16115-h/16115-h.htm  2016/02/09  
+ - http://www.gutenberg.org/files/30914/30914-h/30914-h.htm  2016/02/09   
+ 
 Ressources
 =================
 http://www.w3schools.com/cssref/css3_pr_border-image.asp 2016/02/09   
