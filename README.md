@@ -25,8 +25,7 @@ Part I
 =================
 To run the css file on the gutenberg pages, I added  
 
-link rel="stylesheet" type="text/css" href="https://rawgit.com/vanbelle/CMPUT404-assignment-css-hell/master/gutenberg.css">
-link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/vanbelle/CMPUT404-assignment-css-hell/master/gutenberg.css">
+\<link rel="stylesheet" type="text/css" href="https://rawgit.com/vanbelle/CMPUT404-assignment-css-hell/master/gutenberg.css"></link>
  into the header of the html.  
  
 The CSS file makes the following modifications:  
