@@ -38,6 +38,13 @@ The original pages are
  - http://www.gutenberg.org/files/41764/41764-h/41764-h.htm  2016/02/09  
  - http://www.gutenberg.org/files/16115/16115-h/16115-h.htm  2016/02/09  
  - http://www.gutenberg.org/files/30914/30914-h/30914-h.htm  2016/02/09   
+
+#####Book 1
+![alt tag] (https://cloud.githubusercontent.com/assets/9437242/12970188/b6982446-d048-11e5-8630-a0f75fc02f8b.PNG)
+#####Book 2
+![alt tag] (https://cloud.githubusercontent.com/assets/9437242/12970190/b69d4886-d048-11e5-9a57-d01c2ab20bb1.PNG)
+#####Book 3 
+![alt tag] (https://cloud.githubusercontent.com/assets/9437242/12970189/b69b76f0-d048-11e5-8241-b27c68f92a5b.PNG)
  
 Ressources
 =================
