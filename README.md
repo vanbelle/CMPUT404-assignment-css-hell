@@ -20,9 +20,12 @@ Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
+Contributions by Sarah Van Belleghem 2016
 
 Part I
 =================
+Apply a self-made CSS file to 3 Gutenberg books
+
 To run the css file on the gutenberg pages, I added  
 \<link rel="stylesheet" type="text/css" href="https://rawgit.com/vanbelle/CMPUT404-assignment-css-hell/master/gutenberg.css"></link>
 into the header of the html.  
@@ -45,6 +48,14 @@ The original pages are
 ![alt tag] (https://cloud.githubusercontent.com/assets/9437242/12970190/b69d4886-d048-11e5-9a57-d01c2ab20bb1.PNG)
 #####Book 3 
 ![alt tag] (https://cloud.githubusercontent.com/assets/9437242/12970189/b69b76f0-d048-11e5-8241-b27c68f92a5b.PNG)
+
+Part II
+=================
+Create an HTML page with two different CSS layouts, 1 good one and 1 bad one.
+
+#####Screenshot of Badly Done Webpage
+
+#####Screenshot of Well Done Webpage
  
 Ressources
 =================
