@@ -6,6 +6,12 @@ h1 {
   	text-indent: -9999px; 
 }
 
+h1,h2,h3,h4,h5 {
+ 	text-decoration:underline; 
+ 	font-family:Verdana;
+}
+
+
 body {
 	background-image:url(https://media.giphy.com/media/ELk3JbUHFexpK/giphy.gif);
 	background-repeat: repeat;	
@@ -13,7 +19,7 @@ body {
 }
 
 .Main {
-  width:68%;
+  	width:68%;
 }
 
 .Boxes {

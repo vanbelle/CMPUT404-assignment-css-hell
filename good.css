@@ -1,10 +1,37 @@
+body {
+  	font-size:120%;  
+  	background-color: LightBlue ;
 
-.Boxes {
-	border-radius:1em;
-	border:0.3em solid MidnightBlue;
-	padding:0.3em;
 }
 
-h1,h2,h3,h4,h5 {
- text-decoration:underline; 
+h1 {
+    font-family: 'Berkshire Swash', Helvetica, sans-serif;
+    font-size: 5em;
+    color: #2b2b2b;
+    text-shadow: 1px 1px 0px #ededed, 4px 4px 0px rgba(0,0,0,0.15);
+}
+
+
+h2 {
+    font-family: 'Berkshire Swash', Helvetica, sans-serif;
+    font-size: 2em;
+    color: #2b2b2b;
+    text-decoration:underline;
+}
+
+.Boxes {
+ 	border-radius: 1em;
+ 	border: 0.4em #2b2b2b solid;
+ 	background:OldLace; 	
+ 	margin-bottom:1em;
+ 	margin-left: 1em;
+ 	padding: 1em 1em 1em 1em;
+}
+
+#info {
+	margin-top: 2em;
+}
+
+#contact {
+	background: PeachPuff;
 }
