@@ -24,9 +24,8 @@ Code is licensed under the Apache 2.0 license.
 Part I
 =================
 To run the css file on the gutenberg pages, I added  
-
-link rel="stylesheet" type="text/css" href="https://rawgit.com/vanbelle/CMPUT404-assignment-css-hell/master/gutenberg.css">
- into the header of the html.  
+\<link rel="stylesheet" type="text/css" href="https://rawgit.com/vanbelle/CMPUT404-assignment-css-hell/master/gutenberg.css"></link>
+into the header of the html.  
  
 The CSS file makes the following modifications:  
  - The file background color was changed to OldLace
@@ -34,3 +33,14 @@ The CSS file makes the following modifications:
  - Solid black borders were added around images, and any captions were italicized.
  - Headers were center aligned
  - The first letter in the first paragraph was enlarged, bolded and italicized for emphasis
+
+The original pages are
+ - http://www.gutenberg.org/files/41764/41764-h/41764-h.htm  2016/02/09  
+ - http://www.gutenberg.org/files/16115/16115-h/16115-h.htm  2016/02/09  
+ - http://www.gutenberg.org/files/30914/30914-h/30914-h.htm  2016/02/09   
+ 
+Ressources
+=================
+http://www.w3schools.com/cssref/css3_pr_border-image.asp 2016/02/09   
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Background_and_Borders/Border-image_generator 2016/02/09  
+
