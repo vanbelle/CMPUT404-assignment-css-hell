@@ -4,13 +4,8 @@ h1 {
   	text-align:center;
 }
 
-body {
-	background-image:url(https://media.giphy.com/media/l41lROG1IGB97r6Ok/giphy.gif);
-	background-repeat: repeat;	
-}
-
 .Main {
-  	width:68%;
+  width:68%;
 }
 
 .Boxes {
@@ -21,6 +16,13 @@ body {
 	border-image-repeat: round round; 
 	border-image-source: url("http://i361.photobucket.com/albums/oo54/crackysparkles/sparkles/sparkly.gif");
 	padding: 2em 2em 2em 2em;
-	text-decoration:bold;
-	margin-bottom:1em;
+  	text-decoration:bold;
+  	margin-bottom:1em;
 }
+
+body {
+	background-image:url(https://media.giphy.com/media/l41lROG1IGB97r6Ok/giphy.gif);
+	background-repeat: repeat;	
+  	font-size:120%;
+}
+
