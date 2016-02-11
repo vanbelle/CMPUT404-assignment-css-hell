@@ -1,8 +1,16 @@
-h1{
+h1 {
 	background-image:url(http://i361.photobucket.com/albums/oo54/crackysparkles/sparkles/estrelacolor.gif); 
-  font-size:6em;
-  text-align:center;
+  	font-size:6em;
+  	text-align:center;
+}
 
+body {
+	background-image:url(https://media.giphy.com/media/l41lROG1IGB97r6Ok/giphy.gif);
+	background-repeat: repeat;	
+}
+
+.Main {
+  	width:68%;
 }
 
 .Boxes {
@@ -13,14 +21,6 @@ h1{
 	border-image-repeat: round round; 
 	border-image-source: url("http://i361.photobucket.com/albums/oo54/crackysparkles/sparkles/sparkly.gif");
 	padding: 2em 2em 2em 2em;
-  text-decoration:bold;
-}
-
-body {
-	background-image:url(https://media.giphy.com/media/l41lROG1IGB97r6Ok/giphy.gif);
-	background-repeat: repeat;	
-}
-
-#Sidebar, #Contact {
-  padding:1.5em;
+	text-decoration:bold;
+	margin-bottom:1em;
 }
