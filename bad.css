@@ -1,7 +1,9 @@
 h1 {
-	background-image:url(http://i361.photobucket.com/albums/oo54/crackysparkles/sparkles/estrelacolor.gif); 
+	background: url(http://www.familylobby.com/common/tt11147071fltt.gif) center no-repeat, 
+	url(http://i361.photobucket.com/albums/oo54/crackysparkles/sparkles/estrelacolor.gif)  repeat ; 
   	font-size:6em;
   	text-align:center;
+  	text-indent: -9999px; 
 }
 
 .Main {
@@ -21,8 +23,7 @@ h1 {
 }
 
 body {
-	background-image:url(https://media.giphy.com/media/l41lROG1IGB97r6Ok/giphy.gif);
+	background-image:url(https://media.giphy.com/media/ELk3JbUHFexpK/giphy.gif);
 	background-repeat: repeat;	
   	font-size:120%;
 }
-
