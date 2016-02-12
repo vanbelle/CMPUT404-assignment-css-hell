@@ -1,6 +1,6 @@
 body {
 	font-size:140%;  
-  	background-color: LightBlue ;
+  	background-color: LightSteelBlue;
 	padding:1em;
     	border-image-slice: 27 27 27 27; 
     	border-image-width: 20px 20px 20px 20px; 
@@ -47,7 +47,7 @@ b, h4 {
 .Boxes {
  	border-radius: 1em;
  	border: 0.4em #2b2b2b solid;
- 	background:OldLace; 	
+ 	background:White; 	
  	margin-bottom:1em;
  	margin-left: 1em;
  	padding: 3% 3% 3% 3%;
@@ -58,5 +58,5 @@ b, h4 {
 }
 
 #Contact {
-	background: PeachPuff;
+	background: LightGray;
 }
