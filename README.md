@@ -59,7 +59,7 @@ Create an HTML page with two different CSS layouts, 1 good one and 1 bad one.
 
 #####Screenshot of Well Done Webpage
 \<link rel="stylesheet" type="text/css" href="https://rawgit.com/vanbelle/CMPUT404-assignment-css-hell/master/good.css"/>
-![good](https://cloud.githubusercontent.com/assets/9437242/13016917/ccb2d8fc-d17e-11e5-8ddb-b5c0423a22a2.png)
+
  
 Ressources
 =================
