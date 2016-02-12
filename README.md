@@ -64,6 +64,6 @@ Ressources
 http://www.w3schools.com/cssref/css3_pr_border-image.asp 2016/02/09   
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Background_and_Borders/Border-image_generator 2016/02/09  
 http://templatetrove.com/Frames_and_Borders/Lace/Lace-1/Black-Lace-Full-Sheet-Border-1-PNG.png  2016/02/10  
-http://www.w3schools.com/colors/colors_names.asp  2016/02/10
-http://designshack.net/articles/css/the-10-best-script-and-handwritten-google-web-fonts/  2016/02/10
-
+http://www.w3schools.com/colors/colors_names.asp  2016/02/10  
+http://designshack.net/articles/css/the-10-best-script-and-handwritten-google-web-fonts/  2016/02/10  
+http://content.mycutegraphics.com/borders/dipped-corner-border.png  2016/02/10
