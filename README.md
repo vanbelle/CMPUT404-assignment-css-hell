@@ -53,11 +53,12 @@ Part II
 =================
 Create a personal HTML page with two different CSS layouts, 1 good one and 1 bad one.
 
-#####Screenshot of Badly Done Webpage
+####Screenshot of Badly Done Webpage
+#####Includes fun animations that are not apparent in the screenshot
 \<link rel="stylesheet" type="text/css" href="https://rawgit.com/vanbelle/CMPUT404-assignment-css-hell/master/bad.css"/>
 ![bad](https://cloud.githubusercontent.com/assets/9437242/13020886/12cc830e-d195-11e5-882a-3a327b1ddb5b.png)
 
-#####Screenshot of Well Done Webpage
+####Screenshot of Well Done Webpage
 \<link rel="stylesheet" type="text/css" href="https://rawgit.com/vanbelle/CMPUT404-assignment-css-hell/master/good.css"/>
 ![good](https://cloud.githubusercontent.com/assets/9437242/13020869/fbddb578-d194-11e5-87b2-fffbe06e90e4.png)
 
