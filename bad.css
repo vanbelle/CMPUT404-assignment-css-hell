@@ -1,3 +1,5 @@
+/*Sets the rainbow stars as the background image for the header, superimposes the glittery name on top of it, 
+then shifts the regular h1 text off the page*/
 h1 {
 	background: url(http://www.familylobby.com/common/tt11148306fltt.gif) center no-repeat, 
 	url(http://i361.photobucket.com/albums/oo54/crackysparkles/sparkles/estrelacolor.gif)  repeat ; 
@@ -6,27 +8,28 @@ h1 {
   	text-indent: -9999px; 
 }
 
+/*all headers are done in verdana and underlined*/
 h1,h2,h3,h4,h5 {
  	text-decoration:underline; 
  	font-family:Verdana;
 }
 
-
+/*Sets the moving pink cloud background, the gif is repeated as often as necessary to cover the page*/
 body {
 	background-image:url(https://media.giphy.com/media/ELk3JbUHFexpK/giphy.gif);
 	background-repeat: repeat;	
   	font-size:160%;
 }
-
+/*Sets the image size*/
 img {
     width:20%;
     height:20%;
 }
-
+/*Insures the main boxes do not overlap with the sidebar*/
 .Main {
   	width:75%;
 }
-
+/*Sets a gold sparkly background for the boxes with a purple sparkly border*/
 .Boxes {
 	background-image: url(http://i361.photobucket.com/albums/oo54/crackysparkles/sparkles/ezgtilefinished.gif); 
 	border-image-slice: 27 33 27 27; 
