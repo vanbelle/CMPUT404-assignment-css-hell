@@ -1,3 +1,4 @@
+/* The body has stylings for a blue-grey background, a black image border and a larger than average font-size */
 body {
 	font-size:140%;  
   	background-color: LightSteelBlue;
@@ -10,6 +11,7 @@ body {
 
 }
 
+/*Settings for image size and border with rounded edges*/
 img {
     	width:15%;
     	height:15%;
@@ -17,6 +19,7 @@ img {
     	border-radius:1em;
 }
 
+/*Header 1 settings which set the fancy font, create a black border with rounded edges and a white background */
 h1 {
 	font-family: 'Berkshire Swash', Helvetica, sans-serif;
 	font-size: 5em;
@@ -28,22 +31,23 @@ h1 {
   	border: 0.1em #2b2b2b solid;
 }
 
-
+/* Header 2 settings include the same fancy font as header 1 but without the 
+shadow and with an underline and  smaller font size */
 h2 {
     	font-family: 'Berkshire Swash', Helvetica, sans-serif;
     	font-size: 2em;
     	color: #2b2b2b;
     	text-decoration:underline;
 }
-
-b, h4 {
+/* Header 4's are the ones in the sidebar and are consequently smaller, but otherwise the header 2's*/
+h4 {
     	font-family: 'Berkshire Swash', Helvetica, sans-serif;
     	font-size: 1em;
     	color: #2b2b2b;
     	text-decoration:underline;
 }
 
-
+/*All items divs in the Boxes class get the same black rounded border , white background color and padding*/
 .Boxes {
  	border-radius: 1em;
  	border: 0.4em #2b2b2b solid;
@@ -53,10 +57,11 @@ b, h4 {
  	padding: 3% 3% 3% 3%;
 }
 
+/*The items in the Main Class get a right margin so that they dont line up perfectly with the sidebar.*/
 .Main {
 	margin-right: 3em;
 }
-
+/*The sidebar gets a light gray background color - this overrides the color specified in the Boxes class*/
 #Contact {
 	background: LightGray;
 }
