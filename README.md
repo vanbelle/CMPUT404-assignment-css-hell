@@ -63,7 +63,7 @@ Create a personal HTML page with two different CSS layouts, 1 good one and 1 bad
 ![good](https://cloud.githubusercontent.com/assets/9437242/13020869/fbddb578-d194-11e5-87b2-fffbe06e90e4.png)
 
  
-Ressources
+Resources
 =================
 http://www.w3schools.com/cssref/css3_pr_border-image.asp 2016/02/09   
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Background_and_Borders/Border-image_generator 2016/02/09  
